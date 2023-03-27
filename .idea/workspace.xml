@@ -4,16 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="48ed52bc-6fa6-4fa7-82e0-f94acb48fffa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/DSA-Practice.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Set-Matrix-Zero/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Set-Matrix-Zero/Set-Matrix-Zero.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Set-Matrix-Zero/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Set-Matrix-Zero/img_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Set-Matrix-Zero/src/Main.java" afterDir="false" />
+    <list default="true" id="48ed52bc-6fa6-4fa7-82e0-f94acb48fffa" name="Changes" comment="create practice problem 1 module and question in readme">
+      <change afterPath="$PROJECT_DIR$/Pascals-Triangle/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pascals-Triangle/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +22,19 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="76fab89c-2b51-422a-bd78-8ede0c03003a" />
+        <option name="url" value="https://github.com/chaitanya1607/DSA-Practice.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -44,13 +52,34 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "jdk.selected.JAVA_MODULE": "1.8",
-    "last_opened_file_path": "/Users/chaitanyareddy/IdeaProjects/DSA-Practice/Set-Matrix-Zero"
+    "last_opened_file_path": "/Users/chaitanyareddy/IdeaProjects/DSA-Practice/Pascals-Triangle"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory",
+      "module"
+    ]
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Pascals-Triangle" />
       <recent name="$PROJECT_DIR$/Set-Matrix-Zero" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Set-Matrix-Zero" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -61,6 +90,14 @@
       <option name="presentableId" value="Default" />
       <updated>1679910770868</updated>
     </task>
+    <task id="LOCAL-00001" summary="create practice problem 1 module and question in readme">
+      <created>1679912335406</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679912335406</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -73,5 +110,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="create practice problem 1 module and question in readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="create practice problem 1 module and question in readme" />
   </component>
 </project>
